@@ -146,7 +146,9 @@ def get_event_frames(play_df: pd.DataFrame) -> dict:
 # ── Animation ────────────────────────────────────────────────────────────────
 
 class PlayAnimator:
-    def __init__(self, game_id, play_id, play_meta, players_df, pff_df, save=False):
+    def __init__(self, game_id, play_id, play_meta, players_df, pff_df, save=False, scores=None):
+        # scores: rows of processed/yac_scores.csv for this play (one per eligible receiver), or None
+        self.scores = scores if scores is not None and len(scores) else None
         self.game_id   = game_id
         self.play_id   = play_id
         self.meta      = play_meta   # single-row Series from plays.csv
@@ -202,13 +204,29 @@ class PlayAnimator:
                       for _ in range(23)]
 
         # Velocity arrows (quiver)
-        self.quiver_off = self.ax.quiver([], [], [], [], color=OFFENSE_COLOR,
-                                          alpha=0.5, scale=25, width=0.003, zorder=4)
-        self.quiver_def = self.ax.quiver([], [], [], [], color=DEFENSE_COLOR,
-                                          alpha=0.5, scale=25, width=0.003, zorder=4)
+        # arrow length is in field yards: speed (yd/s) / 1.5, i.e. where the player would be in 2/3 of a second
+        self.quiver_off = self.ax.quiver([], [], [], [], color=OFFENSE_COLOR, angles="xy", scale_units="xy",
+                                          alpha=0.6, scale=1.5, width=0.003, zorder=4)
+        self.quiver_def = self.ax.quiver([], [], [], [], color=DEFENSE_COLOR, angles="xy", scale_units="xy",
+                                          alpha=0.6, scale=1.5, width=0.003, zorder=4)
 
         # Legend
         self._draw_legend()
+
+        # Receiver opportunity overlay (release-time model), shown from the throw onward
+        self.score_texts, self.target_ring = {}, None
+        if self.scores is not None:
+            throw_frames = [f for f, e in self.event_frames.items() if e in ("pass_forward", "autoevent_passforward")]
+            self.throw_frame = min(throw_frames) if throw_frames else None
+            for nid in self.scores["nflId"]:
+                self.score_texts[int(nid)] = self.ax.text(
+                    0, 0, "", color="white", fontsize=7.5, fontweight="bold", ha="center", va="bottom", zorder=9,
+                    bbox=dict(boxstyle="round,pad=0.2", fc="#1a1a2e", ec="none", alpha=0.8))
+            self.target_ring = self.ax.scatter([], [], s=520, facecolors="none", edgecolors="#FFD700", linewidths=2.5, zorder=8)
+            self.ax.text(119, 1, "label: completion probability | expected YAC (10th-90th percentile)\n"
+                                 "release-time model, out-of-fold  |  gold ring = receiver thrown to",
+                         color="white", fontsize=7, ha="right", va="bottom", zorder=10,
+                         bbox=dict(boxstyle="round,pad=0.25", fc="#1a1a2e", ec="none", alpha=0.8))
 
         # Keyboard handler
         self.fig.canvas.mpl_connect("key_press_event", self._on_key)
@@ -313,13 +331,20 @@ class PlayAnimator:
             v = s * np.cos(d_rad)
             return x, y, u, v
 
-        x, y, u, v = _quiver_data(off_rows)
-        self.quiver_off.set_offsets(np.column_stack([x, y]) if len(x) else np.empty((0, 2)))
-        self.quiver_off.set_UVC(u, v)
+        # A matplotlib Quiver fixes its number of arrows when created, so rebuild it if the count changes
+        def _set_quiver(attr, color, x, y, u, v):
+            q = getattr(self, attr)
+            if len(x) != q.N:
+                q.remove()
+                q = self.ax.quiver(x, y, u, v, color=color, angles="xy", scale_units="xy",
+                                   alpha=0.6, scale=1.5, width=0.003, zorder=4)
+                setattr(self, attr, q)
+            else:
+                q.set_offsets(np.column_stack([x, y]))
+                q.set_UVC(u, v)
 
-        x, y, u, v = _quiver_data(def_rows)
-        self.quiver_def.set_offsets(np.column_stack([x, y]) if len(x) else np.empty((0, 2)))
-        self.quiver_def.set_UVC(u, v)
+        _set_quiver("quiver_off", OFFENSE_COLOR, *_quiver_data(off_rows))
+        _set_quiver("quiver_def", DEFENSE_COLOR, *_quiver_data(def_rows))
 
         # Jersey numbers
         player_rows = pd.concat([off_rows, def_rows]) if not off_rows.empty else def_rows
@@ -332,6 +357,24 @@ class PlayAnimator:
         # Clear unused text slots
         for j in range(len(player_rows), len(self.texts)):
             self.texts[j].set_text("")
+
+        # Receiver opportunity labels
+        if self.scores is not None:
+            show = self.throw_frame is not None and frame_id >= self.throw_frame
+            ring = []
+            for _, sr in self.scores.iterrows():
+                txt = self.score_texts[int(sr["nflId"])]
+                pos = off_rows[off_rows["nflId"] == sr["nflId"]]
+                if show and not pos.empty:
+                    px, py = float(pos["x"].iloc[0]), float(pos["y"].iloc[0])
+                    txt.set_position((px, py + 1.6))
+                    txt.set_text(f"{sr['p_comp']:.0%} | {sr['yac_mean']:.1f} ({sr['q10']:.0f}-{sr['q90']:.0f})")
+                    txt.set_color("#FFD700" if bool(sr["is_target"]) else "white")
+                    if bool(sr["is_target"]):
+                        ring.append([px, py])
+                else:
+                    txt.set_text("")
+            self.target_ring.set_offsets(np.array(ring) if ring else np.empty((0, 2)))
 
         # Frame counter
         self.frame_counter.set_text(f"Frame {frame_id}/{self.frames[-1]}")
@@ -396,6 +439,8 @@ def main():
     parser.add_argument("--play",  type=int,  default=97,         help="playId")
     parser.add_argument("--list",  action="store_true",           help="list all plays in the game")
     parser.add_argument("--save",  action="store_true",           help="save animation as GIF")
+    parser.add_argument("--yac",   action="store_true",
+                        help="overlay completion probability and expected YAC per receiver (needs processed/yac_scores.csv)")
     args = parser.parse_args()
 
     print(f"Loading tracking data for game {args.game} …")
@@ -427,9 +472,21 @@ def main():
             print(f"  Frame {fid:>3}: {ev}")
 
     print(f"\nTotal frames: {len(sorted(play_df['frameId'].unique()))}")
-    print("Opening animation… (Space=pause, ←/→=step, q=quit)\n")
+    print("Opening animation... (Space=pause, Left/Right=step, q=quit)\n")
 
-    animator = PlayAnimator(args.game, args.play, meta, players, pff, save=args.save)
+    scores = None
+    if args.yac:
+        sp = os.path.join(os.path.dirname(__file__), "processed", "yac_scores.csv")
+        if not os.path.exists(sp):
+            print("WARNING: processed/yac_scores.csv not found; run yac_features.py and yac_analysis.py first. Continuing without the overlay.")
+        else:
+            allsc = pd.read_csv(sp)
+            scores = allsc[(allsc["gameId"] == args.game) & (allsc["playId"] == args.play)]
+            if scores.empty:
+                print("NOTE: this play has no receiver scores (the model covers thrown passes with a named target and no penalty).")
+                scores = None
+
+    animator = PlayAnimator(args.game, args.play, meta, players, pff, save=args.save, scores=scores)
     animator.run(play_df)
 
 
