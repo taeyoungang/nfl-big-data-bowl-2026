@@ -1,0 +1,301 @@
+gameId,playId,play_type,penalty,desc
+2021091207,599,pass,0.0,(8:30) (Shotgun) 1-K.Murray pass incomplete short right to 18-A.Green (26-K.Fulton).
+2021091207,769,pass,0.0,(6:59) (Shotgun) 17-R.Tannehill pass incomplete short right to 28-J.McNichols.
+2021091207,911,pass,0.0,(5:19) 17-R.Tannehill sacked at TEN 14 for -6 yards (55-C.Jones).
+2021091207,983,pass,0.0,(3:10) (Punt formation) 21-M.Farley pass short middle to 37-A.Hooker to TEN 32 for 6 yards (86-D.Harris).
+2021091207,1230,pass,0.0,"(13:18) (No Huddle, Shotgun) 1-K.Murray pass short right to 13-C.Kirk to TEN 29 for 3 yards (37-A.Hooker)."
+2021091207,1409,pass,0.0,(10:59) 17-R.Tannehill pass incomplete short left to 11-A.Brown (44-M.Golden).
+2021091207,1505,pass,0.0,"(9:17) (No Huddle) 17-R.Tannehill pass deep right to 80-C.Rogers to ARI 11 for 39 yards (7-B.Murphy). Penalty on ARI-7-B.Murphy, Defensive Holding, declined."
+2021091207,1920,pass,1.0,"(2:00) (Shotgun) 1-K.Murray pass short left to 2-C.Edmonds to TEN 16 for 3 yards (20-J.Jenkins). PENALTY on TEN-20-J.Jenkins, Face Mask (15 Yards), 8 yards, enforced at TEN 16."
+2021091207,2287,pass,0.0,(:14) (Shotgun) 1-K.Murray pass short left to 4-R.Moore to ARI 48 for 12 yards (98-J.Simmons).
+2021091207,2367,pass,0.0,(:02) (Shotgun) 1-K.Murray pass short middle to 2-C.Edmonds to TEN 16 for 36 yards (11-A.Brown).
+2021091207,2465,pass,0.0,"(14:18) (No Huddle, Shotgun) 1-K.Murray pass short right to 2-C.Edmonds pushed ob at ARI 23 for 3 yards (54-R.Evans). ARI-68-K.Beachum was injured during the play. His return is Questionable."
+2021091207,2609,pass,0.0,"(12:55) (Shotgun) 61-R.Hudson to ARI 25 for no gain. FUMBLES, recovered by ARI-1-K.Murray at ARI 20. 1-K.Murray pass short left to 4-R.Moore pushed ob at TEN 46 for 29 yards (54-R.Evans)."
+2021091207,3752,pass,0.0,"(10:40) (No Huddle, Shotgun) 17-R.Tannehill pass short left to 22-D.Henry to ARI 49 for 8 yards (20-M.Wilson)."
+2021091207,3919,pass,0.0,(7:33) (Shotgun) 1-K.Murray pass short middle to 4-R.Moore ran ob at ARI 45 for 9 yards (26-K.Fulton).
+2021091300,668,pass,0.0,(4:46) (Shotgun) 8-L.Jackson pass short right to 5-M.Brown to BAL 35 for no gain (29-C.Hayward).
+2021091300,949,pass,0.0,(:08) (Shotgun) 8-L.Jackson pass short right to 13-D.Duvernay to BAL 26 for 6 yards (24-J.Abram).
+2021091300,1392,pass,0.0,(7:44) (Shotgun) 4-D.Carr pass short middle to 13-H.Renfrow to LV 48 for 12 yards (25-T.Young).
+2021091300,1416,pass,0.0,"(7:08) (No Huddle, Shotgun) 4-D.Carr pass short left to 83-D.Waller to BAL 43 for 9 yards (23-A.Averett)."
+2021091300,2156,pass,0.0,(15:00) (Shotgun) 8-L.Jackson pass short middle to 89-M.Andrews to BAL 35 for 10 yards (52-D.Perryman).
+2021091300,2827,pass,0.0,(5:18) (Shotgun) 4-D.Carr pass short left to 83-D.Waller to BAL 20 for 2 yards (32-D.Elliott).
+2021091300,3288,pass,0.0,(11:54) (Shotgun) 4-D.Carr pass short right to 83-D.Waller to BAL 37 for 4 yards (6-P.Queen).
+2021091213,140,pass,0.0,(13:07) (Shotgun) 1-J.Fields pass short right to 84-M.Goodwin to LA 3 for 9 yards (5-J.Ramsey).
+2021091213,751,pass,0.0,(2:50) (Shotgun) 14-A.Dalton pass short right to 11-D.Mooney to LA 48 for -2 yards (5-J.Ramsey).
+2021091213,833,pass,0.0,(1:14) 9-M.Stafford pass short left to 89-T.Higbee to CHI 41 for 17 yards (58-R.Smith).
+2021091213,1165,pass,0.0,(10:16) (Shotgun) 14-A.Dalton pass short right to 84-M.Goodwin to CHI 42 for 7 yards (22-D.Long).
+2021091213,1241,pass,0.0,(8:14) (Shotgun) 14-A.Dalton pass short left to 10-D.Byrd to LA 47 for 3 yards (41-K.Young; 52-T.Lewis).
+2021091213,1306,pass,0.0,(7:18) (Shotgun) 9-M.Stafford pass short right to 89-T.Higbee to LA 12 for 1 yard (38-Ta.Gipson).
+2021091213,1372,pass,0.0,(5:33) (Shotgun) 9-M.Stafford pass short left to 2-R.Woods to LA 8 for 6 yards (58-R.Smith).
+2021091213,1751,pass,0.0,(15:00) 9-M.Stafford pass incomplete short left to 10-C.Kupp (33-Ja.Johnson).
+2021091213,2177,pass,0.0,(6:34) (Shotgun) 1-J.Fields pass short middle to 12-A.Robinson to LA 15 for 1 yard (58-J.Hollins). CHI-75-L.Borom was injured during the play. His return is Questionable.
+2021091213,2416,pass,0.0,(2:44) (Shotgun) 9-M.Stafford pass short left to 1-D.Jackson to CHI 24 for 3 yards (4-E.Jackson).
+2021091213,2650,pass,0.0,(:13) (Shotgun) 14-A.Dalton pass incomplete short left to 12-A.Robinson (51-T.Reeder).
+2021091213,3087,pass,0.0,(6:41) (Shotgun) 9-M.Stafford pass short left to 10-C.Kupp to CHI 21 for 15 yards (22-K.Vildor; 52-K.Mack).
+2021091209,445,pass,0.0,(7:10) (Shotgun) 15-P.Mahomes pass short right to 87-T.Kelce to KC 34 for 17 yards (33-R.Harrison) [95-M.Garrett].
+2021091209,1061,pass,0.0,(11:33) (Shotgun) 15-P.Mahomes pass short middle to 10-T.Hill to KC 30 for -6 yards (90-J.Clowney).
+2021091209,1118,pass,0.0,(10:42) (Shotgun) 15-P.Mahomes pass short left to 17-M.Hardman to KC 39 for 4 yards (4-A.Walker).
+2021091209,1271,pass,0.0,(7:18) 75-M.Remmers reported in as eligible. 15-P.Mahomes pass short middle to 75-M.Remmers to CLE 5 for -2 yards (55-T.McKinley).
+2021091209,1448,pass,0.0,(4:44) 6-B.Mayfield pass short left to 24-N.Chubb pushed ob at 50 for 10 yards (54-N.Bolton).
+2021091209,2009,pass,0.0,(:03) (Shotgun) 6-B.Mayfield pass short right to 80-J.Landry to KC 25 for 32 yards. Lateral to 6-B.Mayfield to KC 14 for 11 yards. Lateral to 27-K.Hunt to KC 12 for 2 yards (22-J.Thornhill; 49-D.Sorensen).
+2021091209,2169,pass,0.0,(12:36) (Shotgun) 15-P.Mahomes pass short left to 17-M.Hardman to KC 49 for 7 yards (43-J.Johnson).
+2021091209,2193,pass,0.0,"(11:53) (Shotgun) 15-P.Mahomes pass incomplete short middle. Penalty on KC-52-C.Humphrey, Ineligible Downfield Pass, declined."
+2021091209,2661,pass,0.0,(3:24) (Shotgun) 15-P.Mahomes pass short right to 81-B.Bell to CLE 34 for 3 yards (21-D.Ward).
+2021091209,2897,pass,0.0,(14:22) (Shotgun) 6-B.Mayfield pass short left to 80-J.Landry pushed ob at CLE 47 for 9 yards (22-J.Thornhill).
+2021091209,3311,pass,0.0,"TWO-POINT CONVERSION ATTEMPT. 15-P.Mahomes pass to 25-C.Edwards-Helaire is incomplete. ATTEMPT FAILS. Penalty on KC-52-C.Humphrey, Ineligible Downfield Pass, declined."
+2021091209,3769,pass,0.0,"(1:40) (No Huddle, Shotgun) 6-B.Mayfield pass short right to 27-K.Hunt to CLE 48 for 19 yards (95-C.Jones)."
+2021090900,253,pass,0.0,(10:31) 4-D.Prescott pass short right to 86-D.Schultz pushed ob at TB 39 for 16 yards (45-D.White).
+2021090900,304,pass,0.0,(9:49) (Shotgun) 4-D.Prescott pass incomplete short left to 88-C.Lamb.
+2021090900,639,pass,0.0,(5:23) (Shotgun) 4-D.Prescott pass short left to 20-T.Pollard to DAL 36 for 11 yards (31-A.Winfield; 35-J.Dean).
+2021090900,663,pass,0.0,(4:53) (Shotgun) 4-D.Prescott pass short left to 13-M.Gallup to DAL 44 for 8 yards (90-J.Pierre-Paul; 23-S.Murphy-Bunting).
+2021090900,711,pass,0.0,(3:30) (Shotgun) 4-D.Prescott pass short middle to 20-T.Pollard to TB 37 for 7 yards (23-S.Murphy-Bunting).
+2021090900,1054,pass,0.0,(14:42) (Shotgun) 4-D.Prescott pass short left to 1-C.Wilson to DAL 7 for 2 yards (54-L.David).
+2021090900,1482,pass,0.0,(8:57) (Shotgun) 4-D.Prescott pass short left to 13-M.Gallup to TB 25 for 8 yards (58-S.Barrett).
+2021090900,1539,pass,0.0,(8:09) (Shotgun) 4-D.Prescott pass short left to 21-E.Elliott to TB 17 for 3 yards (90-J.Pierre-Paul).
+2021090900,1750,run,0.0,(4:59) (Shotgun) 4-D.Prescott scrambles left end ran ob at TB 5 for 7 yards (9-J.Tryon).
+2021090900,1868,pass,0.0,(4:14) 12-T.Brady pass short left intended for 7-L.Fournette INTERCEPTED by 7-T.Diggs at TB 21. 7-T.Diggs to TB 21 for no gain (7-L.Fournette; 74-A.Marpet).
+2021090900,1894,pass,0.0,(4:08) 4-D.Prescott pass short left to 88-C.Lamb to TB 17 for 4 yards (35-J.Dean).
+2021090900,2508,pass,0.0,(15:00) (Shotgun) 4-D.Prescott pass incomplete short left to 19-A.Cooper (24-C.Davis).
+2021090900,2587,pass,0.0,(14:03) (Shotgun) 4-D.Prescott pass short right to 19-A.Cooper to TB 48 for 6 yards (24-C.Davis).
+2021090900,2711,pass,0.0,(12:05) (Shotgun) 4-D.Prescott pass short right to 20-T.Pollard to TB 12 for 6 yards (54-L.David; 43-R.Cockrell).
+2021090900,3086,pass,0.0,(7:52) 12-T.Brady pass short left to 14-C.Godwin to DAL 13 for 2 yards (30-A.Brown; 27-J.Kearse).
+2021090900,3564,pass,0.0,(14:20) (Shotgun) 12-T.Brady pass short left to 7-L.Fournette to TB 48 for 1 yard (9-J.Smith).
+2021090900,3696,pass,0.0,(11:53) 4-D.Prescott pass short left to 19-A.Cooper to DAL 8 for 2 yards (35-J.Dean).
+2021090900,3817,pass,0.0,(10:13) (Shotgun) 12-T.Brady pass short left to 14-C.Godwin to DAL 47 for 9 yards (91-C.Watkins).
+2021090900,4033,pass,0.0,"(5:04) (Shotgun) 12-T.Brady pass short right to 14-C.Godwin to DAL 2 for 11 yards (18-D.Kazee). FUMBLES (18-D.Kazee), RECOVERED by DAL-26-J.Lewis at DAL 0. 26-J.Lewis to DAL 10 for 10 yards (13-M.Evans)."
+2021090900,4165,pass,0.0,(3:02) (Shotgun) 4-D.Prescott pass short left to 19-A.Cooper to DAL 36 for 11 yards (35-J.Dean; 31-A.Winfield).
+2021090900,4333,pass,0.0,(1:51) (Shotgun) 4-D.Prescott pass incomplete short right to 88-C.Lamb.
+2021090900,4509,pass,0.0,(1:24) (Shotgun) 12-T.Brady pass short left to 25-G.Bernard pushed ob at TB 33 for 8 yards (11-M.Parsons).
+2021091212,141,pass,0.0,(13:51) (Shotgun) 8-D.Jones pass short middle to 89-K.Toney to DEN 36 for -6 yards (58-V.Miller).
+2021091212,269,pass,0.0,"(11:35) (Shotgun) 5-T.Bridgewater pass short middle to 87-N.Fant to DEN 34 for 15 yards (29-X.McKinney, 48-T.Crowder) [99-L.Williams]."
+2021091212,397,pass,0.0,(8:28) (Shotgun) 8-D.Jones pass short left to 89-K.Toney to NYG 30 for 4 yards (47-J.Jewell).
+2021091212,888,pass,0.0,(12:05) (Shotgun) 8-D.Jones pass short right to 26-S.Barkley to NYG 45 for 1 yard (99-S.Stephen).
+2021091212,1151,pass,0.0,"(6:55) 5-T.Bridgewater pass short left to 33-J.Williams to NYG 42 for -4 yards (23-L.Ryan, 59-L.Carter) [30-D.Holmes]."
+2021091212,1639,pass,0.0,"(:13) (Shotgun) 5-T.Bridgewater pass short left to 81-T.Patrick for 2 yards, TOUCHDOWN."
+2021091212,2175,pass,0.0,"(6:58) (Shotgun) 5-T.Bridgewater pass short right to 85-A.Okwuegbunam for 4 yards, TOUCHDOWN."
+2021091212,2419,pass,0.0,"(3:49) (No Huddle, Shotgun) 8-D.Jones pass incomplete short right to 86-D.Slayton."
+2021091212,2722,pass,0.0,(13:38) (Shotgun) 5-T.Bridgewater pass short right to 25-M.Gordon to NYG 18 for 13 yards (23-L.Ryan). NYG-23-L.Ryan was injured during the play.
+2021091211,348,pass,0.0,(8:53) (Shotgun) 12-Aa.Rodgers pass short left to 83-M.Valdes-Scantling to GB 37 for 3 yards (22-C.Gardner-Johnson).
+2021091211,773,pass,0.0,(15:00) 7-T.Hill pass short right to 34-T.Jones pushed ob at GB 3 for 3 yards (23-J.Alexander).
+2021091211,797,pass,0.0,"(14:24) (Shotgun) 2-J.Winston pass short middle to 41-A.Kamara for 3 yards, TOUCHDOWN."
+2021091211,985,pass,0.0,(11:07) 2-J.Winston pass short right to 82-A.Trautman to NO 28 for 8 yards (97-K.Clark).
+2021091211,1202,pass,0.0,(5:08) (Shotgun) 2-J.Winston pass short right to 83-J.Johnson to GB 29 for 12 yards (23-J.Alexander; 26-D.Savage).
+2021091211,1467,pass,0.0,"(:48) (No Huddle, Shotgun) 12-Aa.Rodgers pass incomplete short right to 13-A.Lazard."
+2021091211,1831,pass,0.0,(12:43) (Shotgun) 12-Aa.Rodgers pass short left to 33-A.Jones pushed ob at NO 31 for 7 yards (27-M.Jenkins) [95-A.Huggins].
+2021091211,1910,pass,0.0,(11:50) 12-Aa.Rodgers pass short right to 17-D.Adams to NO 17 for 8 yards (53-Z.Baun).
+2021091211,1934,pass,0.0,(11:10) 12-Aa.Rodgers pass short middle to 85-R.Tonyan to NO 12 for 5 yards (70-C.Ringo).
+2021091211,2094,pass,0.0,(7:12) (Shotgun) 2-J.Winston pass short middle to 82-A.Trautman to 50 for 4 yards (51-K.Barnes).
+2021091211,2675,pass,0.0,(14:48) (Shotgun) 12-Aa.Rodgers pass short left to 13-A.Lazard to GB 27 for 2 yards (27-M.Jenkins).
+2021091211,2699,pass,0.0,"(14:19) (No Huddle, Shotgun) 12-Aa.Rodgers pass short left to 28-A.Dillon to GB 34 for 7 yards (95-A.Huggins)."
+2021091211,3280,pass,0.0,(3:14) 10-J.Love pass deep left to 18-R.Cobb ran ob at NO 30 for 32 yards (22-C.Gardner-Johnson).
+2021091211,3330,pass,0.0,(2:59) (Shotgun) 10-J.Love pass incomplete deep left to 13-A.Lazard (26-P.Williams).
+2021091211,3418,pass,0.0,(2:00) (Shotgun) 10-J.Love pass short left to 86-M.Taylor pushed ob at NO 12 for 7 yards (48-J.Gray).
+2021091211,3448,pass,0.0,"(1:55) (No Huddle, Shotgun) 10-J.Love pass short left to 86-M.Taylor to NO 5 for 7 yards (29-P.Adebo; 48-J.Gray)."
+2021091211,3472,pass,0.0,"(1:10) (Shotgun) 10-J.Love sacked at NO 10 for -5 yards (90-T.Kpassagnon). FUMBLES (90-T.Kpassagnon) [90-T.Kpassagnon], touched at NO 9, RECOVERED by NO-55-K.Elliss at NO 2. 55-K.Elliss to NO 2 for no gain (71-J.Myers)."
+2021091205,203,pass,0.0,(14:06) (Shotgun) 16-T.Lawrence pass incomplete short right.
+2021091205,226,pass,0.0,(14:01) 16-T.Lawrence pass incomplete short right to 17-D.Chark.
+2021091205,359,run,0.0,(12:31) (Shotgun) 5-Ty.Taylor scrambles right end to HOU 34 for 7 yards (23-C.Henderson).
+2021091205,380,pass,0.0,"(12:05) (No Huddle, Shotgun) 5-Ty.Taylor pass short right to 85-P.Brown pushed ob at HOU 44 for 10 yards (5-R.Ford)."
+2021091205,537,pass,0.0,(7:18) (Shotgun) 5-Ty.Taylor pass incomplete short middle to 30-P.Lindsay.
+2021091205,723,pass,0.0,(4:51) (Shotgun) 16-T.Lawrence pass incomplete short middle to 80-J.O'Shaughnessy.
+2021091205,929,pass,0.0,"(2:25) (Shotgun) 16-T.Lawrence pass short left to 10-L.Shenault to JAX 33 for 8 yards (26-V.Hargreaves, 23-E.Murray)."
+2021091205,953,pass,0.0,(1:54) (Shotgun) 16-T.Lawrence pass short right to 10-L.Shenault to JAX 36 for 3 yards (25-D.King; 58-C.Kirksey).
+2021091205,1026,pass,0.0,"(:49) (Shotgun) 16-T.Lawrence pass short left to 10-L.Shenault to JAX 29 for -1 yards (58-C.Kirksey, 26-V.Hargreaves)."
+2021091205,1877,pass,0.0,(3:21) (Shotgun) 16-T.Lawrence pass short left to 12-T.Johnson pushed ob at JAX 13 for 6 yards (20-Ju.Reid; 51-K.Grugier-Hill).
+2021091205,2705,pass,0.0,(11:46) (Shotgun) 5-Ty.Taylor pass short right to 31-D.Johnson pushed ob at 50 for 9 yards (2-R.Jenkins).
+2021091205,3605,pass,0.0,(12:08) (Shotgun) 5-Ty.Taylor pass incomplete short right to 12-N.Collins.
+2021091205,3856,pass,0.0,"(10:15) (Shotgun) 16-T.Lawrence pass short right to 25-J.Robinson to HOU 37 for 9 yards (39-T.Mitchell). FUMBLES (39-T.Mitchell), ball out of bounds at HOU 34."
+2021091205,3954,pass,0.0,"(9:04) 5-Ty.Taylor pass short left to 13-B.Cooks to HOU 33 for 4 yards (6-J.Ward). Penalty on HOU-68-J.Britt, Unnecessary Roughness, offsetting. Penalty on JAX-95-R.Robertson-Harris, Unnecessary Roughness, offsetting. Penalty on JAX-44-M.Jack, Unnecessary Roughness, offsetting."
+2021091205,4253,pass,0.0,(4:38) (Shotgun) 5-Ty.Taylor pass short right to 28-R.Burkhead to HOU 32 for 6 yards (93-T.Bryan).
+2021091205,4336,pass,0.0,(3:04) (Shotgun) 5-Ty.Taylor pass short left to 89-D.Amendola to HOU 39 for 4 yards (41-J.Allen).
+2021091205,4444,pass,0.0,"(2:22) (Shotgun) 16-T.Lawrence pass short left to 10-L.Shenault to JAX 33 for no gain (25-D.King, 26-V.Hargreaves)."
+2021091208,130,pass,0.0,(13:29) (Shotgun) 10-J.Herbert pass short left to 81-M.Williams to WAS 39 for 9 yards (23-W.Jackson).
+2021091208,711,pass,0.0,(2:52) 79-T.Pipkins reported in as eligible. 10-J.Herbert pass short left to 13-K.Allen pushed ob at LAC 28 for 11 yards (20-B.McCain).
+2021091208,835,pass,0.0,(1:25) (Shotgun) 14-R.Fitzpatrick pass short right to 24-A.Gibson to WAS 34 for 5 yards (42-U.Nwosu).
+2021091208,1813,pass,0.0,(2:34) 79-T.Pipkins reported in as eligible. 10-J.Herbert pass short left to 81-M.Williams pushed ob at WAS 17 for 11 yards (23-W.Jackson).
+2021091208,2404,pass,0.0,(13:24) (Shotgun) 4-T.Heinicke pass short right to 17-T.McLaurin to 50 for 9 yards (9-K.Murray).
+2021091208,3028,pass,0.0,(3:30) 71-W.Schweitzer reported in as eligible. 4-T.Heinicke pass incomplete short left [42-U.Nwosu].
+2021091208,3653,pass,0.0,(11:21) 4-T.Heinicke pass incomplete short middle to 24-A.Gibson [25-C.Harris].
+2021091208,4033,pass,0.0,(5:33) (Shotgun) 10-J.Herbert pass incomplete short right.
+2021091208,4079,pass,0.0,(4:52) 10-J.Herbert pass incomplete short left to 13-K.Allen (99-C.Young).
+2021091210,241,pass,0.0,"(10:34) (Shotgun) 1-T.Tagovailoa pass short left to 17-J.Waddle to MIA 37 for 17 yards (27-J.Jackson, 32-D.McCourty)."
+2021091210,286,pass,0.0,(9:11) (Shotgun) 1-T.Tagovailoa pass short right to 17-J.Waddle to MIA 44 for 5 yards (23-K.Dugger).
+2021091210,397,pass,0.0,(6:32) (Shotgun) 1-T.Tagovailoa pass short left to 26-S.Ahmed pushed ob at NE 11 for 18 yards (32-D.McCourty).
+2021091210,683,pass,0.0,(3:28) (Shotgun) 1-T.Tagovailoa pass incomplete short middle to 88-M.Gesicki.
+2021091210,1105,pass,0.0,"(11:04) (Shotgun) 10-M.Jones pass short left to 81-J.Smith to MIA 11 for 7 yards (8-J.Holland, 24-By.Jones). FUMBLES (24-By.Jones), recovered by NE-60-D.Andrews at MIA 9."
+2021091210,1179,pass,0.0,(10:17) (Shotgun) 1-T.Tagovailoa pass incomplete short right to 88-M.Gesicki.
+2021091210,1247,pass,0.0,"(9:29) (Shotgun) 1-T.Tagovailoa pass incomplete short middle to 11-D.Parker (53-K.Van Noy). flag picked up, pass was tipped"
+2021091210,1539,pass,0.0,(6:06) (Shotgun) 10-M.Jones pass short right to 37-D.Harris to NE 45 for 8 yards (49-S.Eguavoen).
+2021091210,1836,pass,0.0,(2:00) (Shotgun) 1-T.Tagovailoa pass incomplete short left to 11-D.Parker.
+2021091210,2852,pass,0.0,"(2:05) (Shotgun) 1-T.Tagovailoa pass short middle to 37-M.Gaskin to MIA 20 for -2 yards (21-A.Phillips, 54-D.Hightower)."
+2021091210,3151,pass,0.0,(12:24) (Shotgun) 10-M.Jones pass incomplete short left to 84-K.Bourne (57-B.Scarlett).
+2021091210,3295,pass,0.0,(10:35) 1-T.Tagovailoa pass short left to 11-D.Parker to MIA 40 for 15 yards (32-D.McCourty).
+2021091210,3709,pass,0.0,(3:24) (Shotgun) 1-T.Tagovailoa pass short right to 11-D.Parker to MIA 18 for 13 yards (2-J.Mills).
+2021091203,78,pass,0.0,(15:00) 8-K.Cousins pass short right to 33-D.Cook to MIN 29 for 9 yards (55-L.Wilson; 98-D.Reader).
+2021091203,334,pass,0.0,(10:53) 9-J.Burrow pass short left to 28-J.Mixon to CIN 35 for 5 yards (58-M.Pierce; 54-E.Kendricks).
+2021091203,427,pass,0.0,(9:03) (Shotgun) 9-J.Burrow pass short left to 87-C.Uzomah to CIN 41 for 3 yards (54-E.Kendricks).
+2021091203,741,pass,0.0,(3:05) (Shotgun) 8-K.Cousins pass short right to 18-J.Jefferson to MIN 11 for -1 yards (21-M.Hilton).
+2021091203,972,pass,0.0,(14:33) (No Huddle) 8-K.Cousins pass short middle to 83-T.Conklin to MIN 28 for 2 yards (57-G.Pratt) [96-C.Sample].
+2021091203,1017,pass,0.0,(13:13) (Shotgun) 8-K.Cousins pass short left to 33-D.Cook to MIN 39 for 9 yards (30-J.Bates; 55-L.Wilson).
+2021091203,1110,pass,0.0,(10:36) 18-J.Jefferson pass short right to 17-K.Osborn ran ob at CIN 22 for 11 yards [57-G.Pratt].
+2021091203,1358,pass,0.0,"(6:42) 8-K.Cousins pass short right to 19-A.Thielen for 5 yards, TOUCHDOWN."
+2021091203,2139,pass,0.0,"(:24) (Shotgun) 8-K.Cousins pass short left to 19-A.Thielen to MIN 30 for no gain (37-R.Allen, 65-L.Ogunjobi)."
+2021091203,3159,pass,0.0,(14:21) (Shotgun) 9-J.Burrow pass incomplete short left to 80-M.Thomas (24-M.Alexander).
+2021091203,3215,pass,0.0,(14:13) 8-K.Cousins pass short right to 19-A.Thielen to MIN 30 for 5 yards (20-E.Apple).
+2021091203,3573,pass,0.0,(9:16) (Shotgun) 9-J.Burrow pass short middle to 83-T.Boyd to CIN 28 for 18 yards (22-H.Smith).
+2021091203,4658,pass,0.0,(2:53) (Shotgun) 8-K.Cousins pass short left to 19-A.Thielen to 50 for 5 yards (22-C.Awuzie).
+2021091203,4766,pass,0.0,(1:48) 9-J.Burrow pass short left to 1-J.Chase to CIN 45 for 6 yards (99-D.Hunter).
+2021091202,229,pass,0.0,(11:37) (Shotgun) 2-Z.Wilson pass incomplete short left to 32-Mi.Carter.
+2021091202,288,pass,0.0,(11:24) (Shotgun) 14-S.Darnold pass short right to 22-C.McCaffrey to CAR 37 for 11 yards (29-L.Joyner).
+2021091202,640,pass,0.0,(7:00) (Shotgun) 14-S.Darnold pass short middle to 2-Dj.Moore to NYJ 42 for -5 yards (91-J.Franklin-Myers).
+2021091202,1050,pass,0.0,(13:42) 14-S.Darnold pass short left to 22-C.McCaffrey to NYJ 40 for 5 yards (40-J.Guidry; 45-H.Nasirildeen).
+2021091202,1374,pass,0.0,(8:44) (Shotgun) 14-S.Darnold pass short right to 22-C.McCaffrey to NYJ 6 for 11 yards (31-S.Redwine; 95-Q.Williams).
+2021091202,1567,pass,0.0,"(5:52) (Shotgun) 2-Z.Wilson sacked at NYJ 43 for -6 yards (43-H.Reddick). FUMBLES (43-H.Reddick) [43-H.Reddick], and recovers at NYJ 48."
+2021091202,2316,pass,0.0,(12:37) (Shotgun) 2-Z.Wilson pass short middle to 8-E.Moore pushed ob at NYJ 47 for -3 yards (31-J.Burris).
+2021091202,2562,pass,0.0,(8:35) (Shotgun) 2-Z.Wilson pass short left to 10-B.Berrios to NYJ 18 for 1 yard (26-D.Jackson).
+2021091202,3188,pass,0.0,(11:46) 14-S.Darnold pass short left to 2-Dj.Moore to NYJ 14 for 12 yards (43-D.Phillips; 95-Q.Williams).
+2021091202,3259,pass,0.0,(9:37) (Shotgun) 14-S.Darnold pass short left to 88-T.Marshall to NYJ 6 for 7 yards (20-M.Maye).
+2021091200,426,pass,1.0,"(9:58) (Shotgun) 1-J.Hurts pass short left to 16-Q.Watkins pushed ob at PHI 35 for 10 yards (23-E.Harris). PENALTY on ATL-23-E.Harris, Unnecessary Roughness, 15 yards, enforced at PHI 35."
+2021091200,466,pass,0.0,(9:40) (Shotgun) 1-J.Hurts pass short right to 16-Q.Watkins ran ob at ATL 39 for 11 yards (24-A.Terrell).
+2021091200,490,pass,0.0,"(9:22) (No Huddle, Shotgun) 1-J.Hurts pass short right to 16-Q.Watkins to ATL 37 for 2 yards (26-I.Oliver)."
+2021091200,1676,pass,0.0,(6:30) (Shotgun) 1-J.Hurts pass short left to 18-J.Reagor to ATL 32 for 9 yards (22-F.Moreau).
+2021091200,1814,pass,0.0,(4:33) (Shotgun) 1-J.Hurts pass short left to 18-J.Reagor to ATL 49 for 1 yard (22-F.Moreau).
+2021091200,3187,pass,0.0,(4:24) (Shotgun) 1-J.Hurts pass short right to 88-D.Goedert to ATL 42 for 8 yards (96-T.Davison; 55-S.Means).
+2021091200,3274,pass,0.0,"(1:53) (Shotgun) 1-J.Hurts pass short right to 26-M.Sanders to ATL 8 for 25 yards (32-J.Hawkins). Penalty on ATL-97-G.Jarrett, Defensive Holding, declined."
+2021091200,3554,pass,0.0,(14:39) (Shotgun) 1-J.Hurts pass short left to 18-J.Reagor to PHI 25 for 7 yards (23-E.Harris).
+2021091200,3623,pass,0.0,"(12:53) (No Huddle, Shotgun) 1-J.Hurts Aborted. 62-J.Kelce FUMBLES at PHI 28, recovered by PHI-1-J.Hurts at PHI 26. 1-J.Hurts pass incomplete short right."
+2021091200,4184,pass,0.0,"(4:29) (Shotgun) 1-J.Hurts pass short left to 18-J.Reagor for 23 yards, TOUCHDOWN [54-F.Oluokun]."
+2021091201,87,pass,0.0,"(14:14) (No Huddle, Shotgun) 17-J.Allen pass short left to 14-S.Diggs to PIT 19 for -2 yards (20-C.Sutton)."
+2021091201,196,pass,0.0,(12:51) (Shotgun) 7-B.Roethlisberger pass short right to 18-D.Johnson to PIT 41 for 14 yards (55-J.Hughes; 23-M.Hyde).
+2021091201,382,pass,0.0,(9:04) (Shotgun) 17-J.Allen pass short right to 14-S.Diggs to BUF 18 for 6 yards (39-M.Fitzpatrick).
+2021091201,669,pass,0.0,(4:29) (Shotgun) 7-B.Roethlisberger pass incomplete short left to 11-C.Claypool.
+2021091201,805,pass,0.0,"(2:59) 17-J.Allen pass incomplete deep left to 14-S.Diggs (20-C.Sutton). Flea-flicker, original handoff to D.Singletary before pitch back to J.Allen."
+2021091201,933,pass,0.0,(:46) (Shotgun) 7-B.Roethlisberger pass short right to 13-J.Washington pushed ob at PIT 42 for 9 yards (23-M.Hyde).
+2021091201,1194,pass,0.0,(11:10) (Shotgun) 17-J.Allen pass incomplete short left to 11-C.Beasley.
+2021091201,2163,pass,0.0,(13:48) (Shotgun) 7-B.Roethlisberger pass short right to 18-D.Johnson to PIT 47 for 6 yards (24-T.Johnson).
+2021091201,2187,pass,0.0,(13:09) (Shotgun) 7-B.Roethlisberger pass incomplete short left to 19-J.Smith-Schuster.
+2021091201,2233,pass,0.0,(12:21) (Shotgun) 7-B.Roethlisberger pass deep right to 11-C.Claypool to BUF 12 for 22 yards (27-T.White).
+2021091201,2257,pass,0.0,"(11:53) (No Huddle, Shotgun) 7-B.Roethlisberger pass short left to 18-D.Johnson to BUF 7 for 5 yards (39-L.Wallace)."
+2021091201,2664,pass,0.0,(5:45) (Shotgun) 7-B.Roethlisberger pass short left to 11-C.Claypool to PIT 45 for 9 yards (39-L.Wallace).
+2021091201,2755,pass,0.0,"(3:47) (No Huddle, Shotgun) 7-B.Roethlisberger pass incomplete short left to 18-D.Johnson."
+2021091201,3120,pass,0.0,(13:42) (Shotgun) 7-B.Roethlisberger pass short right to 81-Z.Gentry to PIT 46 for -2 yards (58-M.Milano).
+2021091201,3288,pass,0.0,(11:12) (Shotgun) 17-J.Allen pass short left to 11-C.Beasley to BUF 29 for 4 yards (55-D.Bush).
+2021091201,3455,pass,0.0,"(9:18) (No Huddle, Shotgun) 17-J.Allen pass short right to 14-S.Diggs to BUF 44 for 12 yards (23-J.Haden; 39-M.Fitzpatrick)."
+2021091201,3777,pass,0.0,(3:12) (Shotgun) 7-B.Roethlisberger pass incomplete short left to 18-D.Johnson.
+2021091201,3900,pass,0.0,(2:52) (Shotgun) 7-B.Roethlisberger pass short left to 13-J.Washington to BUF 27 for 1 yard (24-T.Johnson).
+2021091206,353,pass,0.0,(6:31) (Shotgun) 2-C.Wentz pass short left to 28-J.Taylor to SEA 3 for 7 yards (51-K.Hyder).
+2021091206,810,pass,0.0,(14:50) 3-R.Wilson pass short right to 81-G.Everett to 50 for 11 yards (90-G.Stewart).
+2021091206,1783,pass,0.0,(:34) (Shotgun) 2-C.Wentz pass short right to 21-N.Hines to IND 23 for 4 yards (28-U.Amadi).
+2021091206,2080,pass,0.0,(12:14) (Shotgun) 2-C.Wentz pass short left to 28-J.Taylor to IND 19 for 7 yards (6-Q.Diggs).
+2021091206,2475,pass,0.0,(5:37) 2-C.Wentz pass short left to 28-J.Taylor to SEA 40 for 15 yards (21-T.Flowers).
+2021091206,2654,pass,0.0,(1:37) (No Huddle) 3-R.Wilson pass incomplete short left.
+2021091206,2738,pass,0.0,(:38) (Shotgun) 2-C.Wentz pass incomplete short middle to 14-Z.Pascal [90-B.Mone].
+2021091206,2890,pass,0.0,(13:34) 2-C.Wentz pass short right to 21-N.Hines to SEA 46 for 8 yards (28-U.Amadi) [51-K.Hyder].
+2021091206,3010,pass,0.0,(10:46) (Shotgun) 2-C.Wentz pass incomplete short left.
+2021091206,3108,pass,0.0,"(9:33) (No Huddle, Shotgun) 3-R.Wilson pass short right to 32-C.Carson to IND 37 for 6 yards (99-D.Buckner, 58-B.Okereke)."
+2021091204,304,pass,0.0,(10:29) 16-J.Goff pass short left to 32-D.Swift to SF 33 for -8 yards (51-A.Al-Shaair).
+2021091204,1876,pass,1.0,"(:45) (Shotgun) 10-J.Garoppolo pass short middle to 19-D.Samuel pushed ob at SF 42 for 14 yards (21-T.Walker). PENALTY on DET-25-W.Harris, Face Mask (15 Yards), 15 yards, enforced at SF 42."
+2021091204,2241,pass,0.0,(12:12) 10-J.Garoppolo pass incomplete short right to 19-D.Samuel.
+2021091204,2553,pass,0.0,(8:51) (Shotgun) 10-J.Garoppolo pass incomplete short middle to 19-D.Samuel.
+2021091204,2790,pass,0.0,"(4:33) (Shotgun) 16-J.Goff pass short middle to 32-D.Swift for 43 yards, TOUCHDOWN."
+2021091204,2900,pass,0.0,(2:56) (Shotgun) 10-J.Garoppolo pass short middle to 19-D.Samuel to SF 39 for 2 yards (92-K.Strong).
+2021091204,3275,pass,0.0,(10:42) (Shotgun) 10-J.Garoppolo pass short left to 85-G.Kittle to DET 34 for 12 yards (92-K.Strong). DET-92-K.Strong was injured during the play. DET-23-J.Okudah was injured during the play. He is Out.
+2021091204,3932,pass,0.0,"(2:09) (No Huddle, Shotgun) 16-J.Goff pass short left to 30-J.Williams to SF 17 for 9 yards (36-M.Harris)."
+2021091204,4228,pass,0.0,"(1:10) (No Huddle) 16-J.Goff pass short left to 87-Q.Cephus for 2 yards, TOUCHDOWN."
+2021091910,375,pass,0.0,(10:12) 12-T.Brady pass short right to 7-L.Fournette pushed ob at ATL 25 for 16 yards (23-E.Harris).
+2021091910,1058,pass,0.0,"(14:12) 50-V.Vea reported in as eligible. 12-T.Brady pass short right to 87-R.Gronkowski for 1 yard, TOUCHDOWN."
+2021091910,1149,pass,0.0,(13:34) (No Huddle) 2-M.Ryan pass short left to 84-C.Patterson to TB 38 for 23 yards (45-D.White; 96-S.McLendon). TB-35-J.Dean was injured during the play. His return is Questionable.
+2021091910,2415,pass,0.0,"(12:47) 12-T.Brady pass short left to 13-M.Evans for 1 yard, TOUCHDOWN."
+2021091910,2495,pass,0.0,(12:11) 2-M.Ryan pass short left to 14-R.Gage to ATL 36 for 8 yards (35-J.Dean).
+2021091910,2852,pass,0.0,"(6:31) (Shotgun) 12-T.Brady pass short left to 7-L.Fournette to TB 25 for 2 yards (54-F.Oluokun). FUMBLES (54-F.Oluokun), ball out of bounds at TB 21."
+2021091910,3249,pass,0.0,(:38) 12-T.Brady pass incomplete short left to 18-T.Johnson.
+2021091910,3384,pass,0.0,(13:51) (Shotgun) 12-T.Brady pass short middle to 25-G.Bernard to TB 39 for 10 yards (45-D.Jones).
+2021091910,3620,pass,0.0,(9:18) (Shotgun) 2-M.Ryan pass short left to 14-R.Gage to ATL 27 for 2 yards (31-A.Winfield). ATL-14-R.Gage was injured during the play. His return is Questionable.
+2021091905,304,pass,0.0,(11:33) (Shotgun) 1-T.Tagovailoa pass incomplete short right to 37-M.Gaskin.
+2021091905,326,pass,0.0,(11:29) (Shotgun) 1-T.Tagovailoa pass short left to 17-J.Waddle to BUF 48 for 13 yards (61-J.Zimmer; 27-T.White).
+2021091905,571,pass,0.0,(7:02) New QB - 14-J.Brissett 14-J.Brissett pass short left to 11-D.Parker to MIA 32 for 7 yards (27-T.White).
+2021091905,1032,pass,0.0,(:23) (Shotgun) 14-J.Brissett pass incomplete short middle to 88-M.Gesicki (21-J.Poyer).
+2021091905,1168,run,0.0,(13:26) (Shotgun) 14-J.Brissett scrambles up the middle to 50 for 1 yard (55-J.Hughes; 50-G.Rousseau).
+2021091905,1270,pass,0.0,(11:27) (Shotgun) 14-J.Brissett pass short middle to 88-M.Gesicki to BUF 15 for 12 yards (21-J.Poyer). BUF-39-L.Wallace was injured during the play.
+2021091905,1321,pass,0.0,(10:44) (Shotgun) 14-J.Brissett pass short right to 17-J.Waddle to BUF 11 for 4 yards (21-J.Poyer).
+2021091905,1428,pass,0.0,"(9:12) (Shotgun) 17-J.Allen pass short left to 11-C.Beasley to BUF 14 for 1 yard (29-Br.Jones, 43-A.Van Ginkel)."
+2021091905,1989,pass,0.0,(1:27) (Shotgun) 14-J.Brissett pass short right to 17-J.Waddle to BUF 38 for 3 yards (97-M.Addison).
+2021091905,2508,pass,1.0,"(13:54) (Shotgun) 17-J.Allen pass short left to 26-D.Singletary to MIA 34 for 6 yards (43-A.Van Ginkel). FUMBLES (43-A.Van Ginkel), ball out of bounds at BUF 34. PENALTY on MIA-27-J.Coleman, Face Mask (15 Yards), 15 yards, enforced at MIA 34."
+2021091905,2714,pass,0.0,(11:08) (Shotgun) 14-J.Brissett pass incomplete short middle to 88-M.Gesicki.
+2021091905,2781,pass,0.0,"(9:46) (No Huddle, Shotgun) 14-J.Brissett pass incomplete short right to 17-J.Waddle."
+2021091905,2980,pass,0.0,"(7:15) (No Huddle, Shotgun) 17-J.Allen pass incomplete short left to 14-S.Diggs (25-X.Howard)."
+2021091905,3190,pass,0.0,(4:05) (Shotgun) 14-J.Brissett pass incomplete short left to 18-P.Williams (24-T.Johnson).
+2021091905,3212,pass,0.0,(3:59) (Shotgun) 17-J.Allen pass short right to 11-C.Beasley to MIA 35 for 6 yards (27-J.Coleman).
+2021091905,3303,pass,0.0,(1:44) (Shotgun) 17-J.Allen pass short left to 88-D.Knox pushed ob at MIA 19 for 9 yards (30-J.McCourty).
+2021091905,3410,pass,1.0,"(14:55) (Shotgun) 17-J.Allen pass short middle to 20-Z.Moss pushed ob at MIA 15 for 2 yards (55-J.Baker). PENALTY on MIA-91-E.Ogbah, Unnecessary Roughness, 8 yards, enforced at MIA 15."
+2021091905,3949,pass,0.0,(5:48) (Shotgun) 14-J.Brissett pass short right to 2-A.Wilson pushed ob at MIA 41 for 5 yards (30-D.Jackson).
+2021091901,150,pass,0.0,(12:57) (Shotgun) 14-A.Dalton pass short middle to 8-D.Williams to CHI 49 for -5 yards (65-L.Ogunjobi).
+2021091901,804,pass,0.0,(2:32) 14-A.Dalton pass short right to 11-D.Mooney to CHI 22 for 2 yards (22-C.Awuzie).
+2021091901,1671,pass,0.0,(2:00) (Shotgun) 9-J.Burrow pass incomplete short left to 28-J.Mixon (33-Ja.Johnson).
+2021091901,2135,pass,0.0,(12:42) (Shotgun) 9-J.Burrow sacked at CIN 29 for -6 yards (52-K.Mack).
+2021091901,3465,pass,0.0,(6:07) (Shotgun) 9-J.Burrow pass short left to 85-T.Higgins to CIN 40 for 10 yards (96-A.Hicks). CIN-85-T.Higgins was injured during the play.
+2021091901,3835,run,0.0,(2:55) (Shotgun) 1-J.Fields scrambles left end to CHI 36 for 10 yards (96-C.Sample).
+2021091911,628,pass,0.0,(5:56) 10-J.Herbert pass short left to 30-A.Ekeler to DAL 34 for 11 yards (30-A.Brown).
+2021091911,702,pass,0.0,(4:21) (Shotgun) 10-J.Herbert pass short left to 30-A.Ekeler to DAL 28 for no gain (9-J.Smith; 93-T.Basham).
+2021091911,1045,pass,1.0,"(14:23) (Shotgun) 10-J.Herbert pass short right to 13-K.Allen to DAL 45 for 14 yards (56-B.Anae). PENALTY on LAC-13-K.Allen, Taunting, 15 yards, enforced between downs."
+2021091911,1358,pass,0.0,"(9:55) 10-J.Herbert pass short left to 81-M.Williams for 12 yards, TOUCHDOWN."
+2021091911,1738,pass,0.0,(3:40) (Shotgun) 10-J.Herbert pass short right to 81-M.Williams to DAL 36 for 8 yards (30-A.Brown).
+2021091911,2172,pass,0.0,(:03) (Shotgun) 4-D.Prescott pass short left to 88-C.Lamb to LAC 17 for 34 yards. Lateral to 21-E.Elliott pushed ob at LAC 3 for 14 yards (33-D.James).
+2021091911,2395,pass,0.0,(12:40) (Shotgun) 10-J.Herbert pass incomplete short left [97-O.Odighizuwa].
+2021091911,2680,pass,0.0,(7:48) (Shotgun) 4-D.Prescott pass short left to 20-T.Pollard to LAC 33 for 13 yards (44-K.White; 43-M.Davis).
+2021091911,2725,pass,0.0,(6:40) (Shotgun) 4-D.Prescott pass short right to 88-C.Lamb to LAC 32 for -4 yards (33-D.James).
+2021091911,2995,pass,0.0,(1:53) (Shotgun) 10-J.Herbert pass short left to 81-M.Williams pushed ob at DAL 36 for 8 yards (30-A.Brown).
+2021091911,3294,pass,0.0,"(13:25) (Shotgun) 4-D.Prescott pass short left to 88-C.Lamb to LAC 22 for 1 yard (33-D.James, 26-A.Samuel)."
+2021091904,83,pass,0.0,(14:20) (Shotgun) 16-T.Lawrence pass short left to 11-M.Jones to JAX 25 for 4 yards (2-P.Surtain; 47-J.Jewell).
+2021091904,212,pass,0.0,(12:22) (Shotgun) 16-T.Lawrence pass short left to 11-M.Jones pushed ob at DEN 35 for 7 yards (2-P.Surtain).
+2021091904,1772,pass,0.0,(:55) (Shotgun) 16-T.Lawrence pass incomplete deep right to 11-M.Jones.
+2021091904,2358,pass,0.0,(8:20) (Shotgun) 5-T.Bridgewater pass short right to 1-K.Hamler to DEN 30 for 5 yards (42-A.Wingard).
+2021091904,2559,pass,0.0,(4:30) (Shotgun) 16-T.Lawrence pass deep left intended for 89-L.Farrell INTERCEPTED by 22-K.Jackson at DEN 42. 22-K.Jackson pushed ob at DEN 49 for 7 yards (10-L.Shenault).
+2021091904,2586,pass,0.0,(4:23) (Shotgun) 5-T.Bridgewater pass short right to 14-C.Sutton to JAX 40 for 11 yards (26-S.Griffin).
+2021091904,3191,pass,0.0,(11:54) (Shotgun) 16-T.Lawrence pass short right to 11-M.Jones pushed ob at JAX 42 for 6 yards (23-K.Fuller).
+2021091904,3616,pass,0.0,TWO-POINT CONVERSION ATTEMPT. 16-T.Lawrence pass to 17-D.Chark is incomplete. ATTEMPT FAILS.
+2021091904,3700,pass,0.0,(4:36) 5-T.Bridgewater pass short right to 14-C.Sutton to JAX 19 for 6 yards (32-T.Campbell).
+2021092000,436,pass,0.0,(6:36) (Shotgun) 12-Aa.Rodgers pass short right to 85-R.Tonyan to DET 18 for 19 yards (25-W.Harris).
+2021092000,523,pass,0.0,"(3:49) (Shotgun) 12-Aa.Rodgers pass short middle to 33-A.Jones for 4 yards, TOUCHDOWN."
+2021092000,793,pass,0.0,(15:00) 16-J.Goff pass short left to 32-D.Swift to GB 49 for 11 yards (51-K.Barnes).
+2021092000,1333,pass,0.0,(5:26) (Shotgun) 12-Aa.Rodgers pass short right to 17-D.Adams to DET 32 for 6 yards (41-A.Parker).
+2021092000,1428,pass,0.0,"(2:45) (Shotgun) 12-Aa.Rodgers pass short left to 33-A.Jones to DET 1 for 13 yards (25-W.Harris, 8-J.Collins) [97-N.Williams]."
+2021092000,1469,pass,0.0,(2:00) (Shotgun) 12-Aa.Rodgers pass incomplete short right to 83-M.Valdes-Scantling [95-R.Okwara].
+2021092000,2019,run,0.0,(11:14) 12-Aa.Rodgers scrambles left end to DET 22 for 1 yard (34-A.Anzalone).
+2021092000,2459,pass,0.0,(4:14) (Shotgun) 12-Aa.Rodgers pass short left to 18-R.Cobb pushed ob at DET 47 for 3 yards (34-A.Anzalone).
+2021092000,2507,pass,0.0,(3:14) 12-Aa.Rodgers pass short left to 17-D.Adams to DET 33 for 5 yards (90-T.Flowers).
+2021092000,2773,pass,0.0,(15:00) (Shotgun) 12-Aa.Rodgers pass short right to 85-R.Tonyan to DET 9 for 11 yards (27-B.Price).
+2021092000,2797,pass,0.0,(14:14) (Shotgun) 12-Aa.Rodgers pass short left to 17-D.Adams to DET 9 for no gain (41-A.Parker).
+2021092000,2935,pass,0.0,(12:36) (Shotgun) 16-J.Goff pass short right to 88-T.Hockenson to DET 25 for 2 yards (59-D.Campbell).
+2021092000,3078,pass,0.0,"(9:14) (Shotgun) 16-J.Goff sacked at DET 32 for -8 yards. FUMBLES, and recovers at DET 30."
+2021092000,3232,pass,0.0,(6:15) 12-Aa.Rodgers pass short right to 19-E.St. Brown to GB 46 for no gain (27-B.Price).
+2021091902,95,pass,0.0,(14:30) (Shotgun) 6-B.Mayfield pass short right to 80-J.Landry to CLE 46 for 9 yards (37-T.Thomas; 23-E.Murray).
+2021091902,119,pass,0.0,(13:52) 6-B.Mayfield pass short left to 24-N.Chubb to CLE 49 for 3 yards (94-C.Omenihu).
+2021091902,365,pass,0.0,(9:52) (Shotgun) 5-Ty.Taylor pass short left to 12-N.Collins to HOU 48 for 32 yards (21-D.Ward) [90-J.Clowney].
+2021091902,527,pass,0.0,"(5:27) 5-Ty.Taylor pass short right to 30-P.Lindsay for 22 yards, TOUCHDOWN."
+2021091902,610,pass,0.0,(4:55) (No Huddle) 6-B.Mayfield pass short left to 85-D.Njoku to CLE 37 for 11 yards (51-K.Grugier-Hill).
+2021091902,894,pass,0.0,(15:00) (Shotgun) 5-Ty.Taylor pass short left to 13-B.Cooks to HOU 38 for -3 yards (56-M.Smith).
+2021091902,918,pass,0.0,"(14:18) (Shotgun) 5-Ty.Taylor pass short middle to 13-B.Cooks to CLE 49 for 13 yards (56-M.Smith; 43-J.Johnson). Penalty on CLE-55-T.McKinley, Defensive Offside, declined."
+2021091902,2198,pass,0.0,(10:39) 6-B.Mayfield pass short right to 81-A.Hooper to HOU 32 for 5 yards (41-Z.Cunningham; 51-K.Grugier-Hill).
+2021091902,2299,pass,0.0,"(7:59) (Shotgun) 6-B.Mayfield pass short left to 25-D.Felton for 33 yards, TOUCHDOWN."
+2021091902,3189,pass,0.0,(9:34) (Shotgun) 6-B.Mayfield pass short right to 25-D.Felton ran ob at CLE 48 for 18 yards (94-C.Omenihu).
+2021091902,3616,pass,1.0,"(3:33) (Shotgun) 10-D.Mills pass short left to 31-D.Johnson to HOU 23 for 11 yards (96-J.Elliott). PENALTY on HOU-68-J.Britt, Offensive Holding, 10 yards, enforced at HOU 20."
+2021091913,199,pass,0.0,(12:51) (Shotgun) 8-L.Jackson pass short left to 5-M.Brown to BAL 47 for 11 yards (38-L.Sneed).
+2021091913,373,pass,0.0,(9:54) (Shotgun) 15-P.Mahomes pass short middle to 17-M.Hardman to KC 23 for 6 yards (54-T.Bowser).
+2021091913,499,pass,0.0,(6:54) (Shotgun) 15-P.Mahomes pass short left to 87-T.Kelce to BAL 33 for 10 yards (6-P.Queen).
+2021091913,756,pass,0.0,(2:08) (Shotgun) 8-L.Jackson pass short right to 5-M.Brown to KC 28 for -4 yards (53-A.Hitchens).
+2021091913,1582,pass,0.0,(2:42) (Shotgun) 15-P.Mahomes pass short left to 10-T.Hill ran ob at KC 46 for 4 yards (32-D.Elliott).
+2021091913,1652,pass,0.0,(2:00) 15-P.Mahomes pass short middle to 81-B.Bell to BAL 20 for 20 yards (32-D.Elliott). BAL-32-D.Elliott was injured during the play.
+2021091913,2311,pass,0.0,(11:53) (Shotgun) 8-L.Jackson pass short middle to 5-M.Brown to KC 48 for 27 yards (32-T.Mathieu).
+2021091913,3770,pass,0.0,(2:00) (Shotgun) 15-P.Mahomes pass short left to 87-T.Kelce to BAL 32 for 7 yards (54-T.Bowser).
+2021091903,86,pass,0.0,(14:14) (Shotgun) 2-C.Wentz pass short middle to 16-A.Dulin pushed ob at LA 35 for 10 yards (24-T.Rapp).
+2021091903,115,pass,0.0,(13:36) (Shotgun) 2-C.Wentz pass short right to 11-M.Pittman to LA 26 for 9 yards (22-D.Long).
+2021091903,426,pass,0.0,"(4:43) (Shotgun) 9-M.Stafford pass short left to 10-C.Kupp to IND 20 for 13 yards (38-T.Carrie, 32-J.Blackmon)."
+2021091903,739,pass,0.0,(14:48) 9-M.Stafford pass incomplete short left.
+2021091903,808,pass,0.0,(13:57) (Shotgun) 2-C.Wentz pass short left to 81-M.Alie-Cox to LA 22 for 18 yards (41-K.Young).
+2021091903,919,pass,0.0,(10:14) (Shotgun) 2-C.Wentz pass short middle intended for 84-J.Doyle INTERCEPTED by 51-T.Reeder at LA 3. 51-T.Reeder to LA 5 for 2 yards (73-J.Davenport).
+2021091903,1716,pass,0.0,(14:53) (Shotgun) 9-M.Stafford pass short left to 10-C.Kupp pushed ob at IND 31 for 43 yards (32-J.Blackmon).
+2021091903,1964,pass,0.0,(10:03) 9-M.Stafford pass short left to 27-D.Henderson to LA 41 for 2 yards (23-K.Moore).
+2021091903,2120,pass,0.0,(7:08) (Shotgun) 2-C.Wentz pass short left to 84-J.Doyle to LA 40 for 12 yards (11-D.Williams).
+2021091903,2297,pass,0.0,(3:54) (Shotgun) 2-C.Wentz pass incomplete short right to 11-M.Pittman.
+2021091903,2339,pass,0.0,(Pass formation) TWO-POINT CONVERSION ATTEMPT. 2-C.Wentz pass to 84-J.Doyle is complete. ATTEMPT SUCCEEDS.
